@@ -1,0 +1,22 @@
+1. Create React App
+2. Create Server App
+3. Configur react app & Design Fix 
+4. Configer Server App & Design Fix 
+6. Create API For Login & Register
+7. Create API for Category name/slug
+8. Create API for Brand name/slug/image
+9. Create API for Tag name/slug
+10. Create API for Product with relationship name/description/price/category/tag/brand/imgae
+
+11. Login & Register Via Recat Project
+
+12. Category admin crud Via Server
+
+12. Tag admin crud Via Server
+
+12. Brand admin crud Via Server
+
+12. Product admin crud Via Server
+
+12. Show all data crud Via React Project
+
